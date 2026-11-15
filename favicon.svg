@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="ร้อยคำ">
+<defs><linearGradient id="g" x1="0" y1="-84" x2="0" y2="24" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#fff2c4"/><stop offset=".42" stop-color="#f0d082"/><stop offset=".66" stop-color="#e0ad4c"/><stop offset="1" stop-color="#a8721f"/></linearGradient>
+<radialGradient id="bg" cx=".5" cy=".42" r=".7"><stop offset="0" stop-color="#4a2a10"/><stop offset=".55" stop-color="#1d1009"/><stop offset="1" stop-color="#0b0705"/></radialGradient></defs>
+<rect width="256" height="256" rx="56" fill="url(#bg)"/>
+<g transform="translate(128,166) scale(1.45)">
+<g fill="url(#g)">
+<path d="M0,0 C-14,-6 -21,-26 -15,-44 C-10,-58 1,-66 2,-84 C15,-71 21,-52 17,-34 C14,-18 8,-6 0,0 Z" transform="translate(-10,2) rotate(-42) scale(.66)"/>
+<path d="M0,0 C-14,-6 -21,-26 -15,-44 C-10,-58 1,-66 2,-84 C15,-71 21,-52 17,-34 C14,-18 8,-6 0,0 Z" transform="translate(10,2) scale(-1,1) rotate(-42) scale(.66)"/>
+<path d="M0,0 C-14,-6 -21,-26 -15,-44 C-10,-58 1,-66 2,-84 C15,-71 21,-52 17,-34 C14,-18 8,-6 0,0 Z"/>
+<path d="M-40,4 Q0,24 40,4 Q0,13 -40,4 Z"/>
+</g>
+<path d="M0,-9 C-6,-15 -9,-29 -5,-42 C1,-33 5,-21 0,-9 Z" fill="#4a2a0c" fill-opacity=".55"/>
+</g>
+</svg>
